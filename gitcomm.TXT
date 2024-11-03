@@ -1,0 +1,6 @@
+class kd
+
+public void ml()
+{
+
+}
